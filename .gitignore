@@ -1,0 +1,178 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+data/
+*.jpg
+simulator-mac/*.*
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+#Folders
+.ipynb_checkpoints/
+Reacher.app/
+test/
+apps/
+apps/Tennis.app
+apps/Tennis_Linux_NoVis
+
+#files
+*.mp4
+*.mov
+*.zip
+*.pack
+*.p
+*.h5
+*.hdf5
+*.gz
+.idea/
+*.npy
+*.pyc
+*.csv
+
+
+./bvlc-alexnet.npy
+./train.p
+./bvlc-alexnet.npy
+./train.p
+./bvlc-alexnet.npy
+./train.p
+./bvlc-alexnet.npy
+./train.p
+
+checkpoints/
+da/
+cp/
+cp7/
+lenet*
+
+./checkpoints/traffic_sign_classifier.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v11.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v11.h5
+./checkpoints/traffic_sign_classifier_v3.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v4.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v5.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v6.data-00000-of-00001
+./checkpoints/traffic_sign_classifier_v7.data-00000-of-00001
+./cp/model_83.hdf5
+./cp/model_86.h5
+./cp/model_87.h5
+./cp/model_88.h5
+./cp7/traffic_sign_classifier_v7.data-00000-of-00001
+./da/back_up/test-da.p
+./da/back_up/train-da.p
+./test
+./traffic-signs-data/test.p
+./traffic-signs-data/test_pp.p
+./traffic-signs-data/train.p
+./traffic-signs-data/train_pp.p
+./traffic-signs-data/valid.p
+./traffic-signs-data/valid_pp.p
+./traffic-signs-data.zip
+./traffic_sign_classifier_v7.data-00000-of-00001
+./train
+./zip/cp/model_86.h5
+./zip/cp/model_87.h5
+./zip/cp/model_88.h5
+./zip/tcp-v4-rober-v8.8.zip
+./zip/traffic-signs-data/test_pp.p
+./zip/traffic-signs-data/train_pp.p
+./zip/traffic-signs-data/valid_pp.p
